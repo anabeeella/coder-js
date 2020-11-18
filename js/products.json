@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Woody",
+    "type": "Objeto",
+    "knitType": "Crochet",
+    "slangType" : "t-crochet",
+    "materials": ["Hilo de algodón grueso", "Vellón siliconado", "Ojos de seguridad", "Aguja de crochet 00", "Aguja lanera"],
+    "colors": ["Salmón claro", "Marrón claro", "Marrón oscuro", "Amarillo", "Azul", "Blanco"],
+    "price": 1600,
+    "discount": true
+    },
+    {
+    "id": 2,
+    "name": "Spiderman",
+    "type": "Objeto",
+    "knitType": "Crochet",
+    "slangType" : "t-crochet",
+    "materials": ["Hilo de algodón grueso", "Vellón siliconado", "Aguja de crochet 00", "Aguja lanera", "Pañolenci negro y blanco"],
+    "colors": ["Rojo", "Azul", "Negro"],
+    "price": 800,
+    "discount": false
+    },
+    {
+    "id": 3,
+    "name": "Gorro trenzado",
+    "type": "Patrón",
+    "knitType": "Dos agujas",
+    "slangType" : "t-dos-agujas",
+    "materials": ["Lana acrílica (cashmilon)", "Aguja de tricot 4.5", "Aguja de tricot 5.5", "Aguja lanera"],
+    "colors": ["Gris"],
+    "price": 900,
+    "discount": true
+    },
+    {
+    "id": 4,
+    "name": "Gorro combinado",
+    "type": "Objeto",
+    "knitType": "Dos agujas",
+    "slangType" : "t-dos-agujas",
+    "materials": ["Lana acrílica (cashmilon)", "Aguja de tricot 4.5", "Aguja de tricot 5.5", "Aguja lanera"],
+    "colors": ["Cyan oscuro", "Amarillo", "Natural"],
+    "price": 850,
+    "discount": true
+    },
+    {
+    "id": 5,
+    "name": "Hulk",
+    "type": "Objeto",
+    "knitType": "Crochet",
+    "slangType" : "t-crochet",
+    "materials": ["Hilo de algodón", "Vellón siliconado", "Ojos de seguridad", "Aguja de crochet 00", "Aguja lanera"],
+    "colors": ["Verde seco", "Violeta", "Negro"],
+    "price": 1000,
+    "discount": false
+    },
+    {
+    "id": 6,
+    "name": "Mini Ironman",
+    "type": "Objeto",
+    "knitType": "Crochet",
+    "slangType" : "t-crochet",
+    "materials": ["Hilo de algodón", "Vellón siliconado", "Ojos de seguridad", "Aguja de crochet 00", "Aguja lanera", "Pañolenci"],
+    "colors": ["Rojo", "Amarillo"],
+    "price": 800,
+    "discount": false
+    },
+    {
+    "id": 7,
+    "name": "Llavero unicornio",
+    "type": "Objeto",
+    "knitType": "Crochet",
+    "slangType" : "t-crochet",
+    "materials":  ["Hilo de algodón", "Vellón siliconado", "Ojos de seguridad", "Aguja de crochet 00", "Aguja lanera"],
+    "colors": ["Blanco", "Rosa", "Violeta", "Celeste", "Verde acqua"],
+    "price": 700,
+    "discount": false
+    },
+    {
+    "id": 8,
+    "name": "Gorro en jacquard",
+    "type": "Patrón",
+    "knitType": "Dos agujas",
+    "slangType" : "t-dos-agujas",
+    "materials": ["Lana acrílica (cashmilon)", "Aguja de tricot 4.5", "Aguja de tricot 5.5", "Aguja lanera"],
+    "colors": ["Beige", "Naranja fluor", "Amarillo", "Cyan oscuro"],
+    "price": 850,
+    "discount": true
+    },
+    {
+    "id": 9,
+    "name": "Gorro cuadriculado",
+    "type": "Objeto",
+    "knitType": "Dos agujas",
+    "slangType" : "t-dos-agujas",
+    "materials": ["Lana acrílica (cashmilon)", "Aguja de tricot 4.5", "Aguja de tricot 5.5", "Aguja lanera"],
+    "colors": ["Rojo", "Blanco"],
+    "price": 800,
+    "discount": true
+    }
+  ]
